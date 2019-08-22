@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Desktop\ali_webtours_full_script
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\administrator\desktop\ali_webtours_full_script\\logfile.log
+c:\users\administrator\desktop\ali_webtours_full_script\\combined_ali_webtours_full_script.c
+c:\users\administrator\desktop\ali_webtours_full_script\\pre_cci.c

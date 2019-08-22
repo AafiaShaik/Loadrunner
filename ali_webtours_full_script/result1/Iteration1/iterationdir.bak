@@ -1,0 +1,10 @@
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[Fileoperations]
+SnapshotIndex=I1_Fileoperations
+[Action]
+SnapshotIndex=I1_Action
+[Fileoperations_read]
+SnapshotIndex=I1_Fileoperations_read
+[Fileoperations_write]
+SnapshotIndex=I1_Fileoperations_write
